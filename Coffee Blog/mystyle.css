@@ -1,0 +1,71 @@
+body{
+    font-family: arial;
+}
+img{
+    max-width: 100%;
+}
+p{
+        line-height: 2;
+        max-width: ;
+}
+/*header*/
+
+header{
+    background-image: url(./coffee-images-main/banner.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+div{ 
+   
+   
+    p{
+        max-width: 60%;
+        
+    }
+}
+
+/*main*/
+.site-maincontainer{
+    max: width 70%;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.btn-more{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+/*section*/
+
+.course-container{
+    width: 30%;
+    
+}
+
+.btn-section{
+    display: inline-block;
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/*footer*/
+
+.menu-bar{
+    background-color: black;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 200px;
+}
